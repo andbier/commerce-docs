@@ -20,7 +20,7 @@ Let's start by creating a *Brands* taxonomy to organize products by brand.
 Now you can add terms to the vocabulary or look into using the [Feeds module] or [Migrate Tools module] to import your pre-existing data.
 
 ### Create a hierarchical product category
-For our product catalog, we're also going to want to hierarchical categories so that customers can use faceted search to "drill down" to specific categories. For example, on the Commerce Demo site, we have an *Urban Living* product category with sub-categories of *Food & Beverage*, *Home*, *Outdoors*, etc. And within the *Home* category, we further classify products as *Accessories*, *Kitchen*, *Office*, or *Furnishings*.
+For our product catalog, we're also going to need hierarchical categories so that customers can use faceted search to "drill down" to specific categories. For example, on the Commerce Demo site, we have an *Urban Living* product category with sub-categories of *Food & Beverage*, *Home*, *Outdoors*, etc. And within the *Home* category, we further classify products as *Accessories*, *Kitchen*, *Office*, or *Furnishings*.
 
 To create a hierarchical taxonomy in Drupal, we can use the same steps we used to create a basic taxonomy. After creating a *Product categories* taxonomy and adding the terms, we have a listing that looks like this:
 ![Product categories taxonomy terms](../../images/product-categories-ui-5.jpg)
